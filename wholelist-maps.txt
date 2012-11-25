@@ -1,0 +1,534 @@
+Pathway Reconstruction Result
+
+Show all objects
+
+    map04111 Cell cycle - yeast (117)
+
+    map04113 Meiosis - yeast (97)
+
+    map03010 Ribosome (82)
+
+    map00230 Purine metabolism (78)
+
+    map03013 RNA transport (71)
+
+    map03008 Ribosome biogenesis in eukaryotes (69)
+
+    map00240 Pyrimidine metabolism (66)
+
+    map04141 Protein processing in endoplasmic reticulum (66)
+
+    map03040 Spliceosome (65)
+
+    map05169 Epstein-Barr virus infection (59)
+
+    map03018 RNA degradation (51)
+
+    map05016 Huntington's disease (51)
+
+    map00190 Oxidative phosphorylation (51)
+
+    map04110 Cell cycle (49)
+
+    map04120 Ubiquitin mediated proteolysis (45)
+
+    map05166 HTLV-I infection (44)
+
+    map03015 mRNA surveillance pathway (39)
+
+    map04011 MAPK signaling pathway - yeast (39)
+
+    map05010 Alzheimer's disease (37)
+
+    map03050 Proteasome (34)
+
+    map05012 Parkinson's disease (34)
+
+    map04144 Endocytosis (33)
+
+    map03420 Nucleotide excision repair (32)
+
+    map04114 Oocyte meiosis (31)
+
+    map03022 Basal transcription factors (31)
+
+    map03020 RNA polymerase (30)
+
+    map05203 Viral carcinogenesis (30)
+
+    map04145 Phagosome (29)
+
+    map00513 Various types of N-glycan biosynthesis (28)
+
+    map00510 N-Glycan biosynthesis (28)
+
+    map03030 DNA replication (28)
+
+    map00010 Glycolysis / Gluconeogenesis (28)
+
+    map00270 Cysteine and methionine metabolism (27)
+
+    map00330 Arginine and proline metabolism (27)
+
+    map00564 Glycerophospholipid metabolism (27)
+
+    map04146 Peroxisome (24)
+
+    map00970 Aminoacyl-tRNA biosynthesis (24)
+
+    map00250 Alanine, aspartate and glutamate metabolism (23)
+
+    map00260 Glycine, serine and threonine metabolism (23)
+
+    map00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis (23)
+
+    map00620 Pyruvate metabolism (22)
+
+    map05168 Herpes simplex infection (22)
+
+    map00020 Citrate cycle (TCA cycle) (20)
+
+    map03060 Protein export (20)
+
+    map04721 Synaptic vesicle cycle (20)
+
+    map05110 Vibrio cholerae infection (19)
+
+    map04130 SNARE interactions in vesicular transport (19)
+
+    map03440 Homologous recombination (18)
+
+    map03430 Mismatch repair (18)
+
+    map00520 Amino sugar and nucleotide sugar metabolism (18)
+
+    map04914 Progesterone-mediated oocyte maturation (18)
+
+    map00680 Methane metabolism (18)
+
+    map03460 Fanconi anemia pathway (18)
+
+    map04151 PI3K-Akt signaling pathway (17)
+
+    map00500 Starch and sucrose metabolism (17)
+
+    map05200 Pathways in cancer (17)
+
+    map04140 Regulation of autophagy (17)
+
+    map05152 Tuberculosis (17)
+
+    map00561 Glycerolipid metabolism (16)
+
+    map04810 Regulation of actin cytoskeleton (16)
+
+    map00900 Terpenoid backbone biosynthesis (16)
+
+    map00480 Glutathione metabolism (16)
+
+    map00400 Phenylalanine, tyrosine and tryptophan biosynthesis (16)
+
+    map04910 Insulin signaling pathway (16)
+
+    map04623 Cytosolic DNA-sensing pathway (16)
+
+    map03410 Base excision repair (16)
+
+    map05164 Influenza A (16)
+
+    map04260 Cardiac muscle contraction (15)
+
+    map00030 Pentose phosphate pathway (15)
+
+    map05120 Epithelial cell signaling in Helicobacter pylori infection (15)
+
+    map00860 Porphyrin and chlorophyll metabolism (14)
+
+    map04666 Fc gamma R-mediated phagocytosis (14)
+
+    map00051 Fructose and mannose metabolism (14)
+
+    map00630 Glyoxylate and dicarboxylate metabolism (14)
+
+    map05132 Salmonella infection (14)
+
+    map00770 Pantothenate and CoA biosynthesis (14)
+
+    map04310 Wnt signaling pathway (13)
+
+    map04142 Lysosome (13)
+
+    map00100 Steroid biosynthesis (13)
+
+    map00380 Tryptophan metabolism (13)
+
+    map00710 Carbon fixation in photosynthetic organisms (13)
+
+    map04150 mTOR signaling pathway (13)
+
+    map02020 Two-component system (13)
+
+    map05323 Rheumatoid arthritis (12)
+
+    map00910 Nitrogen metabolism (12)
+
+    map00350 Tyrosine metabolism (12)
+
+    map05131 Shigellosis (11)
+
+    map00650 Butanoate metabolism (11)
+
+    map04070 Phosphatidylinositol signaling system (11)
+
+    map04530 Tight junction (11)
+
+    map05034 Alcoholism (11)
+
+    map00562 Inositol phosphate metabolism (11)
+
+    map04010 MAPK signaling pathway (11)
+
+    map00670 One carbon pool by folate (11)
+
+    map04728 Dopaminergic synapse (10)
+
+    map05134 Legionellosis (10)
+
+    map00600 Sphingolipid metabolism (10)
+
+    map03450 Non-homologous end-joining (10)
+
+    map04966 Collecting duct acid secretion (10)
+
+    map00052 Galactose metabolism (10)
+
+    map00300 Lysine biosynthesis (10)
+
+    map00920 Sulfur metabolism (10)
+
+    map00740 Riboflavin metabolism (10)
+
+    map00310 Lysine degradation (10)
+
+    map00340 Histidine metabolism (10)
+
+    map05130 Pathogenic Escherichia coli infection (10)
+
+    map04020 Calcium signaling pathway (9)
+
+    map00640 Propanoate metabolism (9)
+
+    map00760 Nicotinate and nicotinamide metabolism (9)
+
+    map00071 Fatty acid metabolism (9)
+
+    map00410 beta-Alanine metabolism (9)
+
+    map05100 Bacterial invasion of epithelial cells (9)
+
+    map00290 Valine, leucine and isoleucine biosynthesis (9)
+
+    map05322 Systemic lupus erythematosus (8)
+
+    map05202 Transcriptional misregulation in cancer (8)
+
+    map04122 Sulfur relay system (8)
+
+    map00280 Valine, leucine and isoleucine degradation (8)
+
+    map00360 Phenylalanine metabolism (8)
+
+    map04727 GABAergic synapse (8)
+
+    map04912 GnRH signaling pathway (7)
+
+    map00450 Selenocompound metabolism (7)
+
+    map04370 VEGF signaling pathway (7)
+
+    map00040 Pentose and glucuronate interconversions (7)
+
+    map04722 Neurotrophin signaling pathway (7)
+
+    map04210 Apoptosis (7)
+
+    map04724 Glutamatergic synapse (7)
+
+    map05014 Amyotrophic lateral sclerosis (ALS) (7)
+
+    map00750 Vitamin B6 metabolism (7)
+
+    map05160 Hepatitis C (7)
+
+    map00720 Carbon fixation pathways in prokaryotes (7)
+
+    map04720 Long-term potentiation (7)
+
+    map00627 Aminobenzoate degradation (7)
+
+    map05211 Renal cell carcinoma (6)
+
+    map00565 Ether lipid metabolism (6)
+
+    map05210 Colorectal cancer (6)
+
+    map04961 Endocrine and other factor-regulated calcium reabsorption (6)
+
+    map04660 T cell receptor signaling pathway (6)
+
+    map05031 Amphetamine addiction (6)
+
+    map00130 Ubiquinone and other terpenoid-quinone biosynthesis (6)
+
+    map05162 Measles (6)
+
+    map04962 Vasopressin-regulated water reabsorption (6)
+
+    map00960 Tropane, piperidine and pyridine alkaloid biosynthesis (6)
+
+    map04622 RIG-I-like receptor signaling pathway (6)
+
+    map04540 Gap junction (6)
+
+    map04510 Focal adhesion (6)
+
+    map00790 Folate biosynthesis (6)
+
+    map04360 Axon guidance (6)
+
+    map04350 TGF-beta signaling pathway (6)
+
+    map03320 PPAR signaling pathway (5)
+
+    map05142 Chagas disease (American trypanosomiasis) (5)
+
+    map04626 Plant-pathogen interaction (5)
+
+    map04650 Natural killer cell mediated cytotoxicity (5)
+
+    map04520 Adherens junction (5)
+
+    map04723 Retrograde endocannabinoid signaling (5)
+
+    map00061 Fatty acid biosynthesis (5)
+
+    map04115 p53 signaling pathway (5)
+
+    map00625 Chloroalkane and chloroalkene degradation (5)
+
+    map05020 Prion diseases (5)
+
+    map00514 Other types of O-glycan biosynthesis (5)
+
+    map04270 Vascular smooth muscle contraction (5)
+
+    map02010 ABC transporters (5)
+
+    map00062 Fatty acid elongation (5)
+
+    map00730 Thiamine metabolism (4)
+
+    map04916 Melanogenesis (4)
+
+    map04730 Long-term depression (4)
+
+    map05214 Glioma (4)
+
+    map04670 Leukocyte transendothelial migration (4)
+
+    map05145 Toxoplasmosis (4)
+
+    map00440 Phosphonate and phosphinate metabolism (4)
+
+    map00780 Biotin metabolism (4)
+
+    map00980 Metabolism of xenobiotics by cytochrome P450 (4)
+
+    map04380 Osteoclast differentiation (4)
+
+    map04330 Notch signaling pathway (4)
+
+    map00590 Arachidonic acid metabolism (4)
+
+    map00521 Streptomycin biosynthesis (4)
+
+    map00983 Drug metabolism - other enzymes (4)
+
+    map04745 Phototransduction - fly (4)
+
+    map05133 Pertussis (4)
+
+    map04930 Type II diabetes mellitus (4)
+
+    map04012 ErbB signaling pathway (4)
+
+    map04062 Chemokine signaling pathway (4)
+
+    map05146 Amoebiasis (4)
+
+    map05032 Morphine addiction (4)
+
+    map04064 NF-kappa B signaling pathway (4)
+
+    map05416 Viral myocarditis (4)
+
+    map04621 NOD-like receptor signaling pathway (4)
+
+    map00982 Drug metabolism - cytochrome P450 (4)
+
+    map00430 Taurine and hypotaurine metabolism (3)
+
+    map05222 Small cell lung cancer (3)
+
+    map00626 Naphthalene degradation (3)
+
+    map00785 Lipoic acid metabolism (3)
+
+    map04710 Circadian rhythm - mammal (3)
+
+    map04978 Mineral absorption (3)
+
+    map05223 Non-small cell lung cancer (3)
+
+    map00592 alpha-Linolenic acid metabolism (3)
+
+    map04726 Serotonergic synapse (3)
+
+    map04920 Adipocytokine signaling pathway (3)
+
+    map00362 Benzoate degradation (3)
+
+    map05204 Chemical carcinogenesis (3)
+
+    map04725 Cholinergic synapse (3)
+
+    map04970 Salivary secretion (3)
+
+    map00950 Isoquinoline alkaloid biosynthesis (3)
+
+    map04975 Fat digestion and absorption (3)
+
+    map04612 Antigen processing and presentation (3)
+
+    map04662 B cell receptor signaling pathway (3)
+
+    map00460 Cyanoamino acid metabolism (3)
+
+    map05212 Pancreatic cancer (3)
+
+    map04971 Gastric acid secretion (3)
+
+    map04976 Bile secretion (3)
+
+    map05215 Prostate cancer (3)
+
+    map04740 Olfactory transduction (2)
+
+    map04940 Type I diabetes mellitus (2)
+
+    map04620 Toll-like receptor signaling pathway (2)
+
+    map04960 Aldosterone-regulated sodium reabsorption (2)
+
+    map04664 Fc epsilon RI signaling pathway (2)
+
+    map00591 Linoleic acid metabolism (2)
+
+    map05221 Acute myeloid leukemia (2)
+
+    map05414 Dilated cardiomyopathy (2)
+
+    map04340 Hedgehog signaling pathway (2)
+
+    map05340 Primary immunodeficiency (2)
+
+    map05220 Chronic myeloid leukemia (2)
+
+    map05216 Thyroid cancer (2)
+
+    map05213 Endometrial cancer (2)
+
+    map00072 Synthesis and degradation of ketone bodies (2)
+
+    map00660 C5-Branched dibasic acid metabolism (2)
+
+    map04712 Circadian rhythm - plant (2)
+
+    map03070 Bacterial secretion system (2)
+
+    map05140 Leishmaniasis (2)
+
+    map00909 Sesquiterpenoid and triterpenoid biosynthesis (2)
+
+    map05143 African trypanosomiasis (2)
+
+    map00830 Retinol metabolism (2)
+
+    map00363 Bisphenol degradation (2)
+
+    map00903 Limonene and pinene degradation (2)
+
+    map00401 Novobiocin biosynthesis (2)
+
+    map00642 Ethylbenzene degradation (2)
+
+    map05219 Bladder cancer (1)
+
+    map00940 Phenylpropanoid biosynthesis (1)
+
+    map00364 Fluorobenzoate degradation (1)
+
+    map00791 Atrazine degradation (1)
+
+    map05030 Cocaine addiction (1)
+
+    map04972 Pancreatic secretion (1)
+
+    map00361 Chlorocyclohexane and chlorobenzene degradation (1)
+
+    map00140 Steroid hormone biosynthesis (1)
+
+    map04742 Taste transduction (1)
+
+    map04320 Dorso-ventral axis formation (1)
+
+    map05218 Melanoma (1)
+
+    map05033 Nicotine addiction (1)
+
+    map00624 Polycyclic aromatic hydrocarbon degradation (1)
+
+    map05410 Hypertrophic cardiomyopathy (HCM) (1)
+
+    map04744 Phototransduction (1)
+
+    map00524 Butirosin and neomycin biosynthesis (1)
+
+    map00281 Geraniol degradation (1)
+
+    map04973 Carbohydrate digestion and absorption (1)
+
+    map00511 Other glycan degradation (1)
+
+    map05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC) (1)
+
+    map00908 Zeatin biosynthesis (1)
+
+    map00623 Toluene degradation (1)
+
+    map04614 Renin-angiotensin system (1)
+
+    map00053 Ascorbate and aldarate metabolism (1)
+
+    map04630 Jak-STAT signaling pathway (1)
+
+    map00643 Styrene degradation (1)
+
+    map00930 Caprolactam degradation (1)
+
+    map04112 Cell cycle - Caulobacter (1)
+
+    map04013 MAPK signaling pathway - fly (1)
+
+    map04964 Proximal tubule bicarbonate reclamation (1)
+
